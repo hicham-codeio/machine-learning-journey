@@ -9,9 +9,13 @@
 
 ### 🔹 Foundation 
 🔹 Imputation : تعمير القيم لي ناقصين
+
 🔹 Encoding : تحويل الكلمات لأرقام
+
 🔹 ColumnTransformer : كل نوع ديال data كنعالجو بطريقة مختلفة
+
 🔹 Pipeline : تنظيم الخدمة وربط المراحل
+
 🔹 Data Balancing : تصحيح عدم توازن الداتا
 
 ### 🔹 Regression
