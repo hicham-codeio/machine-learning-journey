@@ -7,7 +7,7 @@
 
 ------------- Diro Abino -------------
 
-### 🔹 Foundation
+### 🔹 Foundation 
 🔹 Imputation : تعمير القيم لي ناقصين
 🔹 Encoding : تحويل الكلمات لأرقام
 🔹 ColumnTransformer : كل نوع ديال data كنعالجو بطريقة مختلفة
