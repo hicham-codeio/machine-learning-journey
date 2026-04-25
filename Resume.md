@@ -1,9 +1,9 @@
-# Author: Hicham Ait Douch
-# Ce contenu a été étudié en collaboration avec Lina Karpee, étudiante en Computer Science au MIT.
-# 🎓 Computer Science Student | Machine Learning & AI Enthusiast
-# 🔗 GitHub: https://github.com/hicham-codeio
-# 🔗 LinkedIn: https://www.linkedin.com/in/hicham-ait-douch-647b10359/
-# 🔗 Kaggle: https://kaggle.com/hichamaitdouch
+## Author: Hicham Ait Douch
+## Ce contenu a été étudié en collaboration avec Lina Karpee, étudiante en Computer Science au MIT.
+## 🎓 Computer Science Student | Machine Learning & AI Enthusiast
+## 🔗 GitHub: https://github.com/hicham-codeio
+## 🔗 LinkedIn: https://www.linkedin.com/in/hicham-ait-douch-647b10359/
+## 🔗 Kaggle: https://kaggle.com/hichamaitdouch
 
 ------------- Diro Abino -------------
 
@@ -75,4 +75,3 @@
 
 Hicham Ait Douch Computer Science FPT taroudant   --  
 Lina Karpee Computer Science au MIT
-## Diro abino
